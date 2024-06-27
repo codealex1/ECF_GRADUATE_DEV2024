@@ -51,12 +51,12 @@ Nous vous demandons de vous mettre en situation d’examen. Prenez le temps de l
 
 <br />
 
-(cas_utilisation1.png)
-(cas_utilisation2.png)
-(cas_utilisation3.png)
-(cas_utilisation4.png)
-(cas_utilisation5.png)
-(cas_utilisation6.png)
+![Modélisation des données](cas_utilisation1.png)
+![Modélisation des données](cas_utilisation2.png)
+![Modélisation des données](cas_utilisation3.png)
+![Modélisation des données](cas_utilisation4.png)
+![Modélisation des données](cas_utilisation5.png)
+![Modélisation des données](cas_utilisation6.png)
 
 <br /><br />
 
