@@ -47,6 +47,34 @@ Nous vous demandons de vous mettre en situation d’examen. Prenez le temps de l
 
 **Trello** : <span style="color:red">**url du trello**</span>
 
+
+
+### <span style="text-decoration:underline">Configuration de l'environement de travail</span>
+
+Travaillant sur un système d'exploitation de type `Linux`, les informations ci-dessous y seront bien évidement destinées.
+
+Les commandes sont à titre d'exemple. Elles devront être adaptées au système d'exploitation utilisé. Ici, je représenterai les bases `Debian`.
+
+- **Serveur:**
+    + Apache
+    + PHP 8.1
+    + MySQL 8.1 / PDO
+
+
+- **Backend (API)**
+    + PHP 8.1
+    + MySQL 8.0 / PDO
+    + Symfony 7
+
+
+- **Frontend**
+    + HTML 5
+    + CSS 3
+    + Javascript
+    + ReactJs
+
+
+
 ## Diagramme des Cas d'utilisations
 
 <br />
