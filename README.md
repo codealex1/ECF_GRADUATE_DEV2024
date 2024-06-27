@@ -22,3 +22,44 @@ Nous vous demandons de vous mettre en situation d’examen. Prenez le temps de l
 
 
 ### À vous de jouer !
+
+## Informations
+
+**Github** : https://github.com/codealex1/ECF_GRADUATE_DEV2024.git
+
+**Démonstration** : <span style="color:red">**url du site**</span>
+
+    Adresse email admin      : admin@josearcardia.com
+    Mot de passe admin       : admin
+
+    Adresse email employé      : employe@arcardiaemploye.com
+    Mot de passe employé       : arcadiaemploye
+
+    Adresse email vétérinaire      : veterinaire@arcardiaveterinaire.com
+    Mot de passe vétérinaire       : veterinairearcadia
+
+## Réflexion et configuration de l'environement de travail
+
+### <span style="text-decoration:underline">Résumé du besoin et choix des technologies</span>
+
+
+
+
+**Trello** : <span style="color:red">**url du trello**</span>
+
+## Diagramme des Cas d'utilisations
+
+<br />
+
+(cas_utilisation1.png)
+(cas_utilisation2.png)
+(cas_utilisation3.png)
+(cas_utilisation4.png)
+(cas_utilisation5.png)
+(cas_utilisation6.png)
+
+<br /><br />
+
+
+
+
