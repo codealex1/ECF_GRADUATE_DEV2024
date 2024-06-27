@@ -88,6 +88,11 @@ Les commandes sont à titre d'exemple. Elles devront être adaptées au système
 
 <br /><br />
 
+<br /><br />
+## Modélisation des données
+
+![Modélisation des données](bdd.png)
+
 
 
 
