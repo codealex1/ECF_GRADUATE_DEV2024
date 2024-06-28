@@ -38,7 +38,20 @@ Nous vous demandons de vous mettre en situation d’examen. Prenez le temps de l
     Adresse email vétérinaire      : veterinaire@arcardiaveterinaire.com
     Mot de passe vétérinaire       : veterinairearcadia
 
-## Réflexion et configuration de l'environement de travail
+## Réflexion et configuration de l'environement de travail 
+
+### Git et Github
+
+Pour commencer, j'ouvre **un nouveau "Repository"** dans mon espace **Github** que je nomme **ECF-GRADUATE_DEV2024**.
+Une fois celui-ci configuré, j'**initialise Git** en utilisant les commandes ci-dessous:
+
+```bash
+$ git init
+$ git add .
+$ git commit -m "first commit"
+$ git branch -M dev
+$ git remote add origin https://github.com/codealex1/ECF_GRADUATE_DEV2024.git
+$ git push -u origin dev
 
 ### <span style="text-decoration:underline">Résumé du besoin et choix des technologies</span>
 
@@ -51,9 +64,6 @@ Nous vous demandons de vous mettre en situation d’examen. Prenez le temps de l
 
 ### <span style="text-decoration:underline">Configuration de l'environement de travail</span>
 
-Travaillant sur un système d'exploitation de type `Linux`, les informations ci-dessous y seront bien évidement destinées.
-
-Les commandes sont à titre d'exemple. Elles devront être adaptées au système d'exploitation utilisé. Ici, je représenterai les bases `Debian`.
 
 - **Serveur:**
     + Apache
