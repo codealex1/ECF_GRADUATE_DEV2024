@@ -52,6 +52,7 @@ $ git commit -m "first commit"
 $ git branch -M dev
 $ git remote add origin https://github.com/codealex1/ECF_GRADUATE_DEV2024.git
 $ git push -u origin dev
+```
 
 ### <span style="text-decoration:underline">Résumé du besoin et choix des technologies</span>
 
